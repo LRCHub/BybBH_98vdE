@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Held Back",
+  "base_artist": "ALICELONDO",
+  "createdAt": "2026-02-18T18:13:26.650497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Held Back Clapping",
+      "artist": "Everything Is Made in China",
+      "has_synced": false,
+      "path": "select/01_Held_Back_Clapping_Everything_Is_Made_in_China.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Held Back",
+      "artist": "ALICELONDO",
+      "has_synced": false,
+      "path": "select/pl_01_Held_Back_ALICELONDO.txt"
+    }
+  ]
+}
